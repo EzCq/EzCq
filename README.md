@@ -4,7 +4,7 @@
 
 >- Glory To Ukraine ❤
 
-- :blue_heart::yellow_heart: **Country: `Ukraine, Kyiv`** 
+- :blue_heart: **Country: `Ukraine, Kyiv`** :yellow_heart:
 - :snake: **Programming Languages: `C#`; `Python`**
 - :bomb: `JKProtect Developer`
 
