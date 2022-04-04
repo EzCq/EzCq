@@ -4,7 +4,7 @@
 
 
 
->- Glory To Ukraine ❤
+**Glory To Ukraine ❤**
 
 >- Ukraine, Kyiv
 >>- C#, Python
