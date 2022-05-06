@@ -3,7 +3,7 @@
 ### Welcome!
 
   
-- :blue_heart: **Country: `Ukraine, Kyiv`** 
+- :blue_heart: **From: `Kyiv`** 
 - :snake: **Programming Languages: `C#`; `Python`**
 - :bomb: `JKProtect Developer`
 
